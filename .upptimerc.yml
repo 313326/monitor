@@ -13,10 +13,12 @@ status-website:
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   cname: monitor.313326.xyz
   # baseUrl: /your-repo-name
-  logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
-  name: Upptime
-  introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
-  introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
+  logoUrl: https://link.313326.xyz/313326.xyz-logo/vector/default.svg
+  favicon: https://link.313326.xyz/favicon_io/favicon-32x32.png
+  theme: ocean
+  name: 313326 Monitoring
+  introTitle: "**313326 Monitoring** เป็นระบบตรวจสอบการออนไลน์และแสดงสถานะ"
+  introMessage: นี่คือหน้าแสดงสถานะที่ใช้ข้อมูล **เรียลไทม์** จาก [repository GitHub ของเรา](https://github.com/313326/monitoring)
   navbar:
     - title: Status
       href: /

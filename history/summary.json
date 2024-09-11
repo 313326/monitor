@@ -22,19 +22,19 @@
     "url": "https://link.313326.xyz/",
     "icon": "https://icons.duckduckgo.com/ip3/link.313326.xyz.ico",
     "slug": "short-url-frontend",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 197,
-    "timeDay": 129,
-    "timeWeek": 224,
-    "timeMonth": 197,
-    "timeYear": 197,
+    "status": "up",
+    "uptime": "99.98%",
+    "uptimeDay": "99.33%",
+    "uptimeWeek": "99.90%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.98%",
+    "time": 196,
+    "timeDay": 138,
+    "timeWeek": 217,
+    "timeMonth": 196,
+    "timeYear": 196,
     "dailyMinutesDown": {
-      "2024-09-11": 0
+      "2024-09-11": 10
     }
   },
   {

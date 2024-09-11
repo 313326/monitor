@@ -22,18 +22,20 @@
     "url": "https://link.313326.xyz/",
     "icon": "https://icons.duckduckgo.com/ip3/link.313326.xyz.ico",
     "slug": "short-url-frontend",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 199,
-    "timeDay": 134,
-    "timeWeek": 238,
-    "timeMonth": 199,
-    "timeYear": 199,
-    "dailyMinutesDown": {}
+    "time": 197,
+    "timeDay": 129,
+    "timeWeek": 224,
+    "timeMonth": 197,
+    "timeYear": 197,
+    "dailyMinutesDown": {
+      "2024-09-11": 0
+    }
   },
   {
     "name": "Short Url Backend",

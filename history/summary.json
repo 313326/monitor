@@ -4,36 +4,39 @@
     "url": "https://313326.xyz/",
     "icon": "https://icons.duckduckgo.com/ip3/313326.xyz.ico",
     "slug": "main-web",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 149,
-    "timeDay": 101,
-    "timeWeek": 120,
+    "timeDay": 136,
+    "timeWeek": 127,
     "timeMonth": 149,
     "timeYear": 149,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-09-14": 0
+    }
   },
   {
     "name": "Short Url Frontend",
     "url": "https://link.313326.xyz/",
     "icon": "https://icons.duckduckgo.com/ip3/link.313326.xyz.ico",
     "slug": "short-url-frontend",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.90%",
     "uptimeMonth": "99.98%",
     "uptimeYear": "99.98%",
-    "time": 208,
-    "timeDay": 117,
-    "timeWeek": 234,
-    "timeMonth": 208,
-    "timeYear": 208,
+    "time": 207,
+    "timeDay": 140,
+    "timeWeek": 227,
+    "timeMonth": 207,
+    "timeYear": 207,
     "dailyMinutesDown": {
+      "2024-09-14": 0,
       "2024-09-11": 10
     }
   },
@@ -42,17 +45,19 @@
     "url": "https://l.313326.xyz/",
     "icon": "https://icons.duckduckgo.com/ip3/l.313326.xyz.ico",
     "slug": "short-url-backend",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 321,
-    "timeDay": 137,
-    "timeWeek": 377,
-    "timeMonth": 321,
-    "timeYear": 321,
-    "dailyMinutesDown": {}
+    "time": 318,
+    "timeDay": 175,
+    "timeWeek": 356,
+    "timeMonth": 318,
+    "timeYear": 318,
+    "dailyMinutesDown": {
+      "2024-09-14": 0
+    }
   }
 ]
